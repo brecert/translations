@@ -231,7 +231,8 @@
                     "reset_overrides": "Reset overrides",
                     "import": "Import a theme",
                     "import_theme": "Import theme from string",
-                    "theme_data": "Theme Data",
+                    "
+                    data": "Theme Data",
                     "custom_css": "Custom CSS",
                     "sync": "Sync Options",
                     "font": "Font",
@@ -295,6 +296,9 @@
                     "public_bot_desc": "Whether to allow other users to invite this bot.",
                     "interactions_url": "Interactions URL",
                     "reserved": "Note: This field is reserved for the future."
+                },
+                "theme_shop": {
+                    "title": "Theme Shop"
                 },
                 "feedback": {
                     "title": "Feedback",
